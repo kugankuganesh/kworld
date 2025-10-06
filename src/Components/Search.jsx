@@ -14,16 +14,16 @@ function Search({selectedTag,onSearch }) {
         },
         {
             id:3,
-            name:'React Native',
+            name:'Laravel',
         },
-        {
-            id:4,
-            name:'Angular',
-        },
-        {
-            id:5,
-            name:'UI/UX',
-        },
+        // {
+        //     id:4,
+        //     name:'Angular',
+        // },
+        // {
+        //     id:5,
+        //     name:'UI/UX',
+        // },
     ]
    
 
